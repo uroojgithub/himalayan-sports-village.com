@@ -1,0 +1,250 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Jul 2022 16:39:30 at http://www.himalayan.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+himalayan
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.himalayan sports-gujarat.com/ -O1 "D:\himalyan\himalyan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,himalayan
+himalayan
+	such as username/password authentication for websites mirrored in this projecthimalayan
+himalayanhimalayan
+	do not share these files/folders if you want these information to remain privatehimalayanhimalayan
+himalayanhimalayan
+himalayanhimalayan
+himalayanhimalayan
+16:40:39	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0):himalayanjarat.com/wp-content/themes/sportclub/assets/js/simple-ajax-himalayan.15
+himalayanhimalayan
+16:48:09	Warning: 	file not stored in cache dhimalayan(broken size, expected 3859959 got 2719208): www.himalayan sports-gujarat.com/wp-content/uploads/2021/09/Annual-Return.pdf
+himalayanhimalayan
+16:55:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 4022395 got 29606himalayanb-gujarat.com/wp-content/uploads/2021/09/SCRUTINIZERS-REhimalayandf
+himalayanhimalayan
+18:01:19	Warning: 	Retry after error -4 (Incorrect length (2719208 Bytes, 3859959 expected)) at link wwhimalayanat.com/wp-content/uploads/2021/09/Annual-Return.pdf (from wwwhimalayant.com/)
+himalayan
+18:01:19	Warning: 	Retry after error -4 (Inhimalayan95891 Bytes, 2639876 expechimalayanhimalayan sports-gujarat.com/wp-content/uploads/2021/09/Newspaper-Advertisement.pdf (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:01:19	Warning: 	Retry after error -4 (Incohimalayan634 Bytes, 4022395 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2021/09/SCRUTINIZERS-REPORT-OF-58TH-AGM.pdf (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:01:19	Warning: 	Retry after error -4 (Incohimalayan69 Bytes, 747100 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2020/09/Memorandum-Articles-of-Association.pdf (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:36:10	Warning: 	Retry after error -4 (Incohimalayan86 Bytes, 415866 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/09/main_cover1.png (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:36:11	Warning: 	Retry after error -4 (Incorrect length (659388 Bytes, 803085 expected)) at link www.himalayan.com/wp-content/uploads/2019/09/maincover_img.png (from www.shimalayancom/)
+himalayanhimalayan
+18:36:13	Warning: 	Retry after error -4 (Incohimalayan15 Bytes, 1050254 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/09/rooms_img-1.png (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:36:15	Warning: 	Moved Permanently for www.himalayan.com/facilities/dining/
+himalayanhimalayan
+18:36:15	Warning: 	File has moved from www.himalayan sports-gujarat.com/facilities/dining/ to http://www.sporhimalayan/facilities/food-and-beverages/himalayan
+himalayanhimalayan
+18:36:15	Warning: 	Retry after error -4 (Incohimalayan69 Bytes, 667009 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/09/home_lawn.png (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:36:34	Warning: 	Retry after error -4 (Incorrect length (791850 Bytes, 904431 expected)) at link www.himalayan.com/wp-content/uploads/2019/09/home_library.png (from www.spohimalayanm/)
+himalayan
+18:36:34	Warning: 	Retry after error -4 (Inhimalayan0600 Bytes, 343715 expectehimalayanortsclub-gujarat.com/wp-content/uploads/2019/08/gallery-13-big.jpg (from www.himalayan sports-gujarat.com/)
+himalayanhimalayan
+18:36:49	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=595himalayanhimalayan
+himalayanhimalayan
+18:36:49	Warning: 	File has moved from www.sphimalayanom/?p=595 to http://www.himalayan sports-gujarat.com/president-message/
+himalayanhimalayan
+18:36:49	Warning: 	Retry after error -4 (Incorrect length (263517 Bytes, 447576 expected)) at link www.himalayan.com/wp-content/uploads/2020/01/Untitled-dfdf2.png (fromhimalayanjarat.com/president-message/)
+himalayan
+18:36:49	Warning: 	Moved Permanently for wwhimalayanat.com/?p=165himalayan
+himalayan
+18:36:49	Warning: 	File has moved from www.himalayan.com/?p=165 to http://www.himalayan.com/glorious-past/
+himalayanhimalayan
+18:36:49	Warning: 	Moved Permanently for www.himalayan.com/?p=476
+himalayanhimalayan
+18:36:49	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=476 to http://www.himalayan sports-gujarhimalayanembers/himalayan
+himalayan
+18:36:49	Warning: 	Moved Permanently for wwhimalayanat.com/?p=604himalayan
+himalayanhimalayan
+18:36:49	Warning: 	File has moved from www.sphimalayanom/?p=604 to http://www.himalayan sports-gujarat.com/gallery/
+himalayanhimalayan
+18:36:49	Warning: 	Retry after error -4 (Incorrect length (263561 Bytes, 338800 expected)) at link www.himalayan.com/wp-content/uploads/2019/08/gallery-11-big.jpg (frohimalayanujarat.com/gallery/)
+himalayan
+18:36:49	Warning: 	Retry after error -4 (Inhimalayan1779 Bytes, 365831 expectehimalayanortsclub-gujarat.com/wp-content/uploads/2019/08/gallery-12-big.jpg (from www.himalayan sports-gujarat.com/gallery/)
+himalayanhimalayan
+18:36:49	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=342himalayanhimalayan
+himalayanhimalayan
+18:36:49	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=342 to http://www.himalayan sports-gujarhimalayanties/aqua-point/himalayan
+himalayan
+18:36:49	Warning: 	Moved Permanently for wwhimalayanat.com/?p=351himalayan
+himalayan
+18:36:49	Warning: 	File has moved from www.himalayan.com/?p=351 to http://www.himalayan.com/club-activities/badminton/
+himalayanhimalayan
+18:36:49	Warning: 	Retry after error -4 (Incohimalayan95 Bytes, 481104 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/IMG_8523.jpg (from www.himalayan sports-gujarat.com/club-activities/badminton/)
+himalayanhimalayan
+18:37:01	Warning: 	Retry after error -4 (Incohimalayan42 Bytes, 374645 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/badminton_img.png (from www.himalayan sports-gujarat.com/club-activities/badminton/)
+himalayanhimalayan
+18:37:03	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=358himalayanhimalayan
+himalayan
+18:37:03	Warning: 	File has moved from www.himalayan.com/?p=358 to http://www.shimalayancom/club-activities/billiards/
+himalayan
+18:37:03	Warning: 	Retry after error -4 (Inhimalayan2976 Bytes, 403227 expectehimalayanortsclub-gujarat.com/wp-content/uploads/2019/08/dining_cafe_img.png (from www.himalayan sports-gujarat.com/club-activities/billiards/)
+himalayan
+18:37:06	Warning: 	Moved Permanently for wwhimalayanat.com/?p=365himalayan
+himalayan
+18:37:06	Warning: 	File has moved from www.himalayan.com/?p=365 to http://www.himalayan.com/club-activities/body-zone/
+himalayanhimalayan
+18:37:06	Warning: 	Retry after error -4 (Incohimalayan96 Bytes, 352660 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/fitness_img3.png (from www.himalayan sports-gujarat.com/club-activities/body-zone/)
+himalayanhimalayan
+18:37:17	Warning: 	Retry after error -4 (Incohimalayan66 Bytes, 358748 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/Health Centre Application Form.pdf (from www.himalayan sports-gujarat.com/club-activities/body-zone/)
+himalayanhimalayan
+18:37:19	Error: 	"Not Found" (404) at link wwhimalayanat.com/wp-content/uploads/2019/08/Aerobics (Ruju Desai).pdf (from www.himalayan sports-gujarat.com/club-activities/body-zone/)
+himalayanhimalayan
+18:37:19	Warning: 	Moved Permanently for www.himalayan.com/?p=370
+himalayanhimalayan
+18:37:19	Warning: 	File has moved from www.sphimalayanom/?p=370 to http://www.himalayan sports-gujarat.com/club-activities/card-room/
+himalayanhimalayan
+18:37:19	Warning: 	Retry after error -4 (Incohimalayan82 Bytes, 383267 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/card_room.png (from www.himalayan sports-gujarat.com/club-activities/card-room/)
+himalayanhimalayan
+18:37:19	Warning: 	Moved Permanently for www.himalayan.com/?p=385
+himalayanhimalayan
+18:37:19	Warning: 	File has moved from www.sphimalayanom/?p=385 to http://www.himalayan sports-gujarat.com/club-activities/cricket/
+himalayanhimalayan
+18:37:19	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/himalayanhimalayanhimalayan
+himalayan
+18:37:19	Warning: 	File has moved from www.himalayan.com/?p=373 to http://www.shimalayancom/club-activities/home-theatre/
+himalayan
+18:37:19	Warning: 	Retry after error -4 (Inhimalayan2195 Bytes, 399263 expectehimalayanortsclub-gujarat.com/wp-content/uploads/2019/08/theatre_img.png (from www.himalayan sports-gujarat.com/club-activities/home-theatre/)
+himalayan
+18:37:24	Warning: 	Moved Permanently for wwhimalayanat.com/?p=379himalayan
+himalayan
+18:37:24	Warning: 	File has moved from www.himalayan.com/?p=379 to http://wwwhimalayant.com/club-activities/table-tennis/
+himalayan
+18:37:24	Warning: 	Retry after error -4 (Inhimalayan3698 Bytes, 404124 expechimalayanhimalayan sports-gujarat.com/wp-content/uploads/2019/08/Table Tennis Coaching.pdf (from www.himalayan sports-gujarat.com/club-activities/table-tennis/)
+himalayanhimalayan
+18:37:32	Warning: 	Moved Permanently for www.sphimalayanom/?p=1070himalayan
+himalayanhimalayan
+18:37:32	Warning: 	File has moved from www.sporhimalayan/?p=1070 to http://www.himalayan sports-gujarat.com/club-activities/squash/himalayan
+himalayanhimalayan
+18:37:32	Warning: 	Retry after error -4 (Incorrect length (397271 Bytes, 557137 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2020/01/3Z7A9268.jpg (from www.himalayan sports-gujarat.com/club-activities/squash/)
+
+18:37:39	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=1067
+
+18:37:39	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=1067 to http://www.himalayan sports-gujarat.com/club-activities/music/
+
+18:37:39	Warning: 	Retry after error -4 (Incorrect length (394853 Bytes, 491084 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2020/01/IMG_0398.jpg (from www.himalayan sports-gujarat.com/club-activities/music/)
+
+18:37:42	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=291
+
+18:37:42	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=291 to http://www.himalayan sports-gujarat.com/facilities/accomodation/
+
+18:37:42	Warning: 	Retry after error -4 (Incorrect length (261831 Bytes, 409075 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/rooms_img2.png (from www.himalayan sports-gujarat.com/facilities/accomodation/)
+
+18:37:47	Warning: 	Retry after error -4 (Incorrect length (260511 Bytes, 393073 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/rooms_foyer_img2.png (from www.himalayan sports-gujarat.com/facilities/accomodation/)
+
+18:37:55	Warning: 	Retry after error -4 (Incorrect length (268683 Bytes, 406274 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/roos_foyer_img1.png (from www.himalayan sports-gujarat.com/facilities/accomodation/)
+
+18:37:58	Warning: 	Retry after error -4 (Incorrect length (267803 Bytes, 388073 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/rooms_foyer_img3.png (from www.himalayan sports-gujarat.com/facilities/accomodation/)
+
+18:38:06	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=311
+
+18:38:06	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=311 to http://www.himalayan sports-gujarat.com/facilities/banquet-multipurpose-hall/
+
+18:38:06	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=304
+
+18:38:06	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=304 to http://www.himalayan sports-gujarat.com/facilities/food-and-beverages/
+
+18:38:06	Warning: 	Retry after error -4 (Incorrect length (398881 Bytes, 486593 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/Untitled-343432.jpg (from www.himalayan sports-gujarat.com/facilities/food-and-beverages/)
+
+18:38:09	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=297
+
+18:38:09	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=297 to http://www.himalayan sports-gujarat.com/facilities/lawn/
+
+18:38:09	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=296
+
+18:38:09	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=296 to http://www.himalayan sports-gujarat.com/facilities/library/
+
+18:38:09	Warning: 	Retry after error -4 (Incorrect length (664362 Bytes, 753170 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/IMG_16031.jpg (from www.himalayan sports-gujarat.com/facilities/library/)
+
+18:38:18	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=2308
+
+18:38:18	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=2308 to http://www.himalayan sports-gujarat.com/book-list/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=376
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=376 to http://www.himalayan sports-gujarat.com/club-activities/open-air-theatre/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=466
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=466 to http://www.himalayan sports-gujarat.com/membership/about-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=461
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=461 to http://www.himalayan sports-gujarat.com/membership/membership-fees/
+
+18:38:21	Warning: 	Retry after error -4 (Incorrect length (511019 Bytes, 917238 expected)) at link www.himalayan sports-gujarat.com/wp-content/uploads/2019/08/membership-fees.jpg (from www.himalayan sports-gujarat.com/membership/membership-fees/)
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=472
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=472 to http://www.himalayan sports-gujarat.com/membership/institutional-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=473
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=473 to http://www.himalayan sports-gujarat.com/membership/life-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=474
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=474 to http://www.himalayan sports-gujarat.com/membership/other-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=475
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=475 to http://www.himalayan sports-gujarat.com/membership/ordinary-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=628
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=628 to http://www.himalayan sports-gujarat.com/membership/provisional-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=1502
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=1502 to http://www.himalayan sports-gujarat.com/membership/new-unit-membership/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=486
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=486 to http://www.himalayan sports-gujarat.com/inquiry-form/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=1504
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=1504 to http://www.himalayan sports-gujarat.com/associated-clubs/
+
+18:38:21	Warning: 	Retry after error -4 (Connect Error) at link www.himalayan sports-gujarat.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.himalayan sports-gujarat.com%2Fassociated-clubs%2F (from www.himalayan sports-gujarat.com/associated-clubs/)
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=1082
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=1082 to http://www.himalayan sports-gujarat.com/new-events/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=400
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=400 to http://www.himalayan sports-gujarat.com/news/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=430
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=430 to http://www.himalayan sports-gujarat.com/contact-us/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=96
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=96 to http://www.himalayan sports-gujarat.com/terms-conditions/
+
+18:38:21	Warning: 	Moved Permanently for www.himalayan sports-gujarat.com/?p=3
+
+18:38:21	Warning: 	File has moved from www.himalayan sports-gujarat.com/?p=3 to http://www.himalayan sports-gujarat.com/privacy-policy/
+
+18:38:21	Error: 	"Method Not Allowed" (405) at link www.himalayan sports-gujarat.com/xmlrpc.php (from www.himalayan sports-gujarat.com/privacy-policy/)
+
+18:38:21	Error: 	"Not Found" (404) at link www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/assets/fonts/MyriadPro-Bold.otf (from www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/css/common.css)
+
+18:38:21	Error: 	"Not Found" (404) at link www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/assets/fonts/DroidSerif-Italic.ttf (from www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/css/common.css)
+
+18:38:21	Error: 	"Not Found" (404) at link www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/assets/fonts/MyriadPro-Regular.otf (from www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/css/common.css)
+
+18:38:21	Error: 	"Not Found" (404) at link www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/assets/fonts/FuturaBT.ttf (from www.himalayan sports-gujarat.com/wp-content/themes/sportclub/assets/css/common.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 58 minutes 57 seconds : 636 links scanned, 560 files written (176934935 bytes overall) [173859977 bytes received at 24360 bytes/sec], 4472201 bytes transferred using HTTP compression in 159 files, ratio 21%, 1.6 requests per connection
+
+(6 errors, 108 warnings, 0 messages)
+
