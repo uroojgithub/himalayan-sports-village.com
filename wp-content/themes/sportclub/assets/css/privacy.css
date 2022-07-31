@@ -1,0 +1,46 @@
+.cm-privacy-content{
+	width: 100%;
+    border: 1px solid red;
+    padding-bottom: 50%;
+    box-shadow: 0px 0px 15px rgba(50, 50, 50, 0.75);
+    background: #fff;
+    padding: 2.5%;
+    border: 1px solid #ccc;    
+}
+.cm-privacy-title{
+	 font-size: 13px;  
+    line-height: 30px; 
+    color: #444444;  
+    font-family: Arial,sans-serif;    
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.cm-privecy{
+	padding-top: 120px;
+}
+.cm-privacy-text{
+	font-size: 13px;
+	color: #555555;
+	line-height: 18px;
+	font-family: Arial,sans-serif;
+	text-align: justify;
+    display: block;
+}
+
+.cm-privacy-ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+        margin-left: 15px
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}

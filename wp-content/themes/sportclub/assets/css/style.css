@@ -1,0 +1,99 @@
+@import url(variables.css);
+@import url(grid.css);
+@import url(common.css);
+@import url(hamburger.css);
+@import url(header.css);
+@import url(hero.css);
+@import url(about.css);
+@import url(facility.css);
+@import url(photo-gallery.css);
+@import url(map.css);
+@import url(footer.css);
+@import url(privacy.css);
+@import url(president-message.css);
+@import url(glorious-past.css);
+@import url(committee-members.css);
+@import url(gallery.css);
+@import url(aquapoint.css);
+@import url(badminton.css);
+@import url(billiards.css);
+@import url(body-zone.css);
+@import url(card-room.css);
+@import url(cricket.css);
+@import url(home-theatre.css);
+@import url(open-air-theatre.css);
+@import url(table-tennis.css);
+@import url(accomodation.css);
+@import url(banquet-multipurposehall.css);
+@import url(dining.css);
+@import url(lawn.css);
+@import url(library.css);
+@import url(about-membership.css);
+@import url(membership-fees.css);
+@import url(institutional-membership.css);
+@import url(life-membership.css);
+@import url(other-membership.css);
+@import url(ordinary-membership.css);
+@import url(junior-membership.css);
+@import url(associated-clube.css);
+@import url(newsletter.css);
+@import url(inquiry-form.css);
+@import url(contactus.css);
+@import url(custom.css);
+
+.golf-tournament-title {
+    text-align: center;font-size: 30px;font-weight: 600;color: #1b4e9b;text-decoration: underline;
+}
+.golf-tournament-button-main {
+    display: flex;flex-wrap: wrap;margin-bottom: 35px;
+}
+.golf-tournament-button-sub {
+    width: 50%;text-align: center;
+}
+.golf-tournament-button {
+    padding: 10px;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    background: #023d65;
+    color: #fff;
+    font-size: 18px;
+    border: 1px solid #023d65;
+    transition: 0.5s;
+}
+a.golf-tournament-button:hover {
+    background: transparent;
+    color: #023d65;
+}
+
+
+.cm-header-nav ul li{
+    position: relative;
+}
+
+.cm-header-nav li > ul li:hover ul{
+    right: -100% !important;
+    left: auto !important;
+    top: 0 !important;
+}
+@media only screen and (max-width: 1037px) {
+    .golf-tournament-button {
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 627px) {
+    .golf-tournament-button-sub {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width:767px){
+	.cm-header-nav li > ul li:hover ul{
+    	right: 0 !important;
+    }
+    ul.cm-header-nav li ul .arrow:before{
+    	    border-bottom: 5px solid #0191dc !important;
+    }
+}

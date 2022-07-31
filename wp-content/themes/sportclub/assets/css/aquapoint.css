@@ -1,0 +1,56 @@
+.padd-top{
+  padding-top: 20px;
+}
+.marg-top{
+  margin-top: 10px;
+}
+.cm-title-aquapoint-img{
+    width: 100%;
+}
+.cm-title-aquapoint-img{
+    width:100%;
+}
+.cm-gallery-ap .slick-dots {
+    margin-bottom: 5vh ! important;
+}
+.cm-common-aq-title {
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;    
+    left: 0;
+    text-align: center;
+    width: 100%;
+    color: #0191DC;
+    
+}
+.cm-aq-text{
+  text-align: justify;
+}
+.aq-s_title {
+    margin: 0;
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    text-align: center;
+    color: #dff2f8;
+    padding-top: 20px;
+}
+.cm-gallery-aq {
+    padding-top: 70px;
+}
+.cm-table-ap { 
+  width: 100%; 
+  border-collapse: collapse; 
+  border-radius: 10px;
+   border-collapse: collapse;
+ 
+  --overflow: hidden;
+
+}
+@media (max-width: 768px){
+  
+.cm-gallery-aq {
+    padding-top: 70px;
+}
+}

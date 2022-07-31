@@ -1,0 +1,166 @@
+.cm-col-sm-12.no_event {
+text-align: center!important;
+
+}
+p a {
+    text-decoration: none;
+}  
+.button-send input.wpcf7-form-control.wpcf7-submit{
+	background: transparent;
+    box-shadow: none;
+    border: 1px solid #fff;
+    padding: 10px 15px 10px 15px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+.wpcf7-response-output.wpcf7-display-none.wpcf7-validation-errors{
+
+	color:#000;
+	margin-top: 45px;
+}
+.home iframe{
+width:600px;
+height:400px;
+}
+.page-template-tpl-contactus iframe{
+width:600px;
+height:450px;
+}  
+
+.cm-gp-fullbox {
+    background-color: unset;
+    
+}
+ .cm-gp-fullbox{margin-top: 0px;}
+ .left_box .cm-gp-fullbox{margin-top: 50px;}
+
+ .cm-privacy-content p{ 
+ 	font-size: 13px;
+    color: #555555;
+    line-height: 18px;
+    font-family: Arial,sans-serif;
+    text-align: justify;}
+
+ .cm-privacy-content p strong{ color:black;}
+ .full_section {margin-left: 0px;}
+.banner_sec{margin-bottom:20px;}
+.table-responsive table{width:100%;}
+/*.inquiry-form-subtext ul , .activities_detail ul {
+	list-style-type: disc;
+    padding-left: 25px;
+	}*/
+ .inquiry-form-subtext li ,.activities_detail li {
+   
+    padding-bottom: 5px;
+}
+.cm-cm-img-div-titile {
+    
+   
+    
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+   
+}
+
+/*.membership-template-default .s_title {
+    font-size: 110px;
+}*/
+/*.cm-accomodation-text p{
+    margin-top: 0;
+}*/
+
+
+.page-template-tpl-committee-members .cm-cm-fillbox { margin-top: 70px;} 
+
+.inquiry_form .cm-padd-top {
+    padding-top: 15px;
+}
+.cm-cm-img-div { margin-bottom: 40px;}
+
+
+/*29-08-2019*/
+.cm-accomodation-text {
+  margin-bottom: 0px;
+ line-height: 150%;}
+.cm-bold {
+    font-weight: 600;
+}
+.cm-footer-copyright div {    color: #000;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;}
+
+    .cm-footer-copyright a {
+    color: #8eb330;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+
+/*30-08-2019*/
+.activities_detail img {
+    width: 100%;
+}
+.cm-footer ul.f_link {
+    padding: 0;
+    margin: 0;
+    list-style: none!important;
+	text-align: center!important;
+}
+.cm-footer ul.f_link li {
+    display: inline-block!important;
+    margin: 10px!important;
+	
+    
+}
+i.fa.fa-facebook-f
+{
+	
+    font-size: 20px!important;
+}
+i.fa.fa-instagram
+{
+		 font-size: 20px!important;
+	
+}
+.cm-footer ul.f_link li a.facebook{
+    border: 1px solid #1b4e9b!important;
+    width: 40px!important;
+    height: 40px!important;
+    padding: 10px!important;
+    text-align: center!important;
+    border-radius: 50%!important;
+    display: block!important;
+    background: #1b4e9b!important;
+    color: #fff!important;
+}   
+.cm-footer ul.f_link li a.instagram
+{
+border: 1px solid #d706b6!important;
+    width: 40px!important;
+    height: 40px!important;
+    padding: 10px!important;
+    text-align: center!important;
+    border-radius: 50%!important;
+    display: block!important;
+   
+	background: #d706b6 !important;
+    color: #fff!important;
+}
+.page-template-tpl-newsletter .title-wrap
+{
+	height:70px;
+}
+.gallery-img img {
+    height: 250px;
+    object-fit: cover;
+}
+.page-template-tpl-event .gallery-img img {	
+	height: 250px;
+	object-fit: contain !important;
+}
