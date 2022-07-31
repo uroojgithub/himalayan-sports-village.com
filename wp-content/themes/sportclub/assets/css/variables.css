@@ -1,0 +1,5 @@
+:root { 
+    --primary-font-family: 'SF Pro Display'; 
+    --secondary-font-family: 'Open Sans', sans-serif; 
+    --elastic: cubic-bezier(.47,-0.50,.55,1.50);
+}

@@ -1,0 +1,46 @@
+.padd-top{
+  padding-top: 20px;
+}
+.marg-top{
+  margin-top: 10px;
+}
+.cm-gallery-life-member{
+    padding-top: 120px;
+}
+
+
+.cm-life-member-text{
+   font-size: 16px;
+    font-weight:400;
+    font-family: 'Open Sans', sans-serif;
+    --margin-bottom: 40px;
+}
+.cm-gallery-life-member .slick-dots {
+    margin-bottom: 5vh ! important;
+}
+
+
+
+.ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.list li {
+    list-style: disc;
+    padding-bottom: 5px;
+}
+
+.cm-life-member-contact{
+    text-decoration: none;
+    color: #006BB1;
+}
+.cm-life-member-link{
+    text-decoration: none;
+    color: #006BB1;
+}
+
+.mail{
+   text-decoration: none;
+    color: #006BB1;
+}

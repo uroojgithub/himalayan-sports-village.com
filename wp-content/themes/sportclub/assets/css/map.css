@@ -1,0 +1,132 @@
+    /* .cm-map {
+    padding-bottom: 10px;
+} */
+.cm-map-bg{
+    display: flex;
+}
+.cm-map-bg{
+    position: relative;
+}
+.cm-map-form {
+    background-color: rgba(167, 205, 69, 0.87);
+    color: #fff;
+    width: 450px;
+    height:400px;
+    padding: 20px;
+    position: absolute;
+    right: 90px;
+
+}
+/* .cm-map-small-box{
+    background-color: #76a400;
+    color: #fff;
+    width: 200px;
+    height:200px;
+    padding: 20px;
+    position: absolute;
+    left: 400px;
+    top: 80px;
+} */
+.section-map ::placeholder {
+  color: #fff !important;
+  font-size: 14px;
+}
+.cm-map-subtitle{
+   font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+.cm-map-row1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px;
+   font-family: 'Montserrat', sans-serif;
+}
+.cm-map-row3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px;
+}
+.cm-map-title{
+    text-transform: uppercase;
+    font-size: 35px;
+    color: #fff;
+   font-family: 'Montserrat', sans-serif;
+
+}
+.input-fild{
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom:1px solid #fff;
+    background: transparent;
+   font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+    width: 45%;
+}
+.input-fild-textarea{
+     border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom:1px solid #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    background: transparent;
+    padding: 10px;    
+    width: 100%;
+    font-size: 14px;
+    color: #fff;
+}
+.button-send button{
+    background: transparent;
+    box-shadow: none;
+    border: 1px solid #fff;
+    padding: 10px 15px 10px 15px;
+    color: #fff;
+   font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+.require{
+   font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+@media only screen and (max-width: 768px) {
+
+   .cm-map-bg{
+        display: block;
+    }
+    .cm-map-form {
+        background-color: rgba(167, 205, 69, 0.87);
+        color: #fff;
+        width: 100%;
+        height: auto;
+        padding: 20px;    
+        position: unset;
+    }
+    .input-fild {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid #fff;
+        background: transparent;
+        padding: 10px;
+        font-size: 14px;
+        color: #fff;
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .cm-map-row1 {
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0;
+    }
+    
+}

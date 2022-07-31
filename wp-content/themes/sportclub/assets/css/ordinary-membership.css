@@ -1,0 +1,45 @@
+.padd-top{
+  padding-top: 20px;
+}
+.marg-top{
+  margin-top: 10px;
+}
+.cm-gallery-ord-mem{
+    padding-top: 120px;
+}
+
+
+.cm-ord-mem-text{
+   font-size: 16px;
+    font-weight:400;
+    font-family: 'Open Sans', sans-serif;
+    --margin-bottom: 40px;
+}
+.cm-gallery-ord-mem .slick-dots {
+    margin-bottom: 5vh ! important;
+}
+
+
+.ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.list li {
+    list-style: disc;
+    padding-bottom: 5px;
+}
+
+.cm-ord-mem-contact{
+    text-decoration: none;
+    color: #006BB1;
+}
+.cm-ord-mem-link{
+    text-decoration: none;
+    color: #006BB1;
+}
+
+.mail{
+   text-decoration: none;
+    color: #006BB1;
+}

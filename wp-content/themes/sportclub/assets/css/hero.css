@@ -1,0 +1,155 @@
+/* @font-face {
+font-family: 'Myriad Pro Bold';
+font-style: normal;
+font-weight: 700;
+src: local('Myriad Pro Bold'), url(fonts/MYRIADPRO-BOLD.woff);
+}
+
+@font-face {
+font-family: 'Myriad Pro Regular';
+font-style: normal;
+font-weight: 400;
+src: local('Myriad Pro Regular'), url(fonts/MYRIADPRO-REGULAR.woff);
+} */
+
+
+.cm-slider-wrap{
+    position: relative;
+}
+/* .cm-hero-slider{
+    position: relative;
+} */
+.slick-dots {
+    margin-bottom: 20vh ! important;
+    
+}
+@media (max-height: 650px)
+{
+	.slick-dots {
+    	margin-bottom: 50px !important;    
+	}
+}
+.cm-slider-mouse{
+    width: 38px;
+    height: 60px;
+    position: absolute;
+    bottom: 30%;
+    left: 50%;
+    z-index: 10;
+    transform:translateX(-50%);
+    cursor: pointer;
+}
+.slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #fff ! important;
+    height: 20px;
+}
+.cm-hero1 {
+    --background: #999;
+    height: 100vh;
+    width: 100%;
+    display: block;
+    position: relative;
+    z-index: 1;
+}
+.cm-hero1-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-position: center;
+    background-size: cover;
+}
+.cm-hero1-content { 
+    
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+.cm-hero1-title {
+    font-size: 16px;
+    line-height: 58px;
+    letter-spacing: 4.5px;
+   font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #000;
+    display: block;
+   
+}
+.cm-hero1-img {
+    font-size: 92px;
+    line-height: 58px;
+    letter-spacing: .2px;
+    font-weight: bold;
+    color: #000;
+    margin-top: 40px;
+    margin-top: 0px;
+    display: block;
+}
+.cm-hero1-sub-title {
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: .4px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    vertical-align: 3.4px;
+    color: #000;
+    margin-top: 40px;
+    margin-top: -5px;
+    display: block;
+   
+    text-align: center;
+}
+@media (max-width: 992px) {
+    .cm-hero1-content {
+        padding: 15px;
+        top: 80px;
+    }
+    .cm-hero1-title{
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom:12px;
+        text-align: center;
+    }
+    .cm-hero1-sub-title {
+        font-size: 25px;
+        line-height: 22px;
+        text-align: center;
+    }
+}
+@media (max-width: 320px) {   
+    .cm-hero1-title{
+        font-size: 13px;
+        --line-height: 42px;
+    }
+    .cm-hero1-sub-title {
+        font-size: 24px;
+        line-height: 22px;
+        text-align: center;
+    }
+}
+
+
+.slick-dots li button {
+    background: #fff !important;
+    border-radius: 50%;
+    height: 10px !important;
+    width: 10px !important;
+    padding: 0;
+    margin-right: 0 !important;
+    position: relative;
+    opacity: 0.4;
+    margin: 0 2px;
+}
+.slick-dots li button:before {
+    content: none !important;
+}
+.slick-dots li.slick-active button {
+    opacity: 1;
+}

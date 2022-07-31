@@ -1,0 +1,136 @@
+.padd-top{
+  padding-top: 20px;
+}
+.marg-top{
+  margin-top: 10px;
+}
+.cm-accomodation-titles-image{
+    padding-top: 120px;
+}
+.cm-about2-content{
+
+}
+
+
+.cm-title-cm-img{
+    width: 100%;
+}
+.committee-img{
+    width: 100%;
+}
+
+.cm-title-cm-img{
+    width:100%;
+}
+.cm-floating-cm-titles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+
+}
+
+.cm-cm-section-img{
+    text-align: center;
+    display:flex;
+}
+.text-center{
+    text-align: center;
+}
+
+.cm-cm-text{
+    font-size: 16px;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.cm-cm-img-div:hover .cm-cm-img-div-img {
+  opacity: 0.5;
+}
+.cm-cm-img-div-img{
+    opacity: 1;
+    transition: .5s ease;
+   backface-visibility: hidden;
+   --box-shadow: 0 10px 10px #cccc;
+   margin-top: 30px;
+   transition: all 0.3s;
+}
+.cm-cm-fillbox{
+    background-color: #e7f5f8;
+}
+ .cm-cm-img1{
+   position: relative;
+}
+.cm-cm-img2{
+   position: absolute;
+}
+.cm-main-div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.cm-cm-img-div-titile{
+    text-align:center;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.cm-cm-img-div{
+    width: 200px;
+    max-width: 100%;
+    margin:10px;
+}
+.cm-cm-section-img{
+   width: 400px;
+   
+}
+.cm-cm-section-wrap{
+    text-align: center;
+    margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+   
+    .cm-floating-titles {
+        position: absolute;
+    }    
+     
+    .cm-gp-img {
+        margin-top: 30px;
+    }
+    .cm-accomodation-titles-image{
+        padding-top:50px;
+    }
+}
+.cm-ap-link{
+    text-decoration: none;
+    color: #006BB1;
+}
+.cm-ap-contact{
+    color: #006BB1;
+}
+.align-items-center{
+    align-items: center;
+}
+.committee-box{
+    align-items: center;    
+    display: flex;
+    margin: 15px 0px;
+}
+.committee-box-bullet-img{
+    vertical-align: middle; 
+    max-width: 45px;   
+}
+.committee-title{
+    width: 100%;
+    margin: 0px 15px;
+    text-align: right;
+    font-size: 14px;
+}
+.committee-box-inverse .committee-title {
+    order: 2;
+    margin: 0px 15px;
+    text-align: left;
+}

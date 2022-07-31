@@ -1,0 +1,55 @@
+.padd-top{
+  padding-top: 20px;
+}
+.marg-top{
+  margin-top: 10px;
+}
+.cm-gallery-home-theater{
+    padding-top: 120px;
+}
+
+.cm-home-theater-text{
+   font-size: 16px;
+    font-weight:400;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 40px;
+}
+.cm-gallery-home-theater .slick-dots {
+    margin-bottom: 5vh ! important;
+}
+
+.cm-table-home-theater { 
+  width: 100%; 
+  border-collapse: collapse; 
+  border-radius: 10px;
+   border-collapse: collapse;
+ }
+.ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.list li {
+    list-style: disc;
+    padding-bottom: 5px;
+}
+
+.cm-home-theater-contact{
+    text-decoration: none;
+    color: #006BB1;
+}
+.cm-home-theater-link{
+    text-decoration: none;
+    color: #006BB1;
+}
+@media (max-width: 768px){
+  .cm-gallery-home-theater {
+    padding-top: 70px;
+}
+  .cm-home-theater-titles-image {
+    padding: 15px;
+}
+.cm-gallery-theater-titles{
+    padding-top: 70px;
+}
+}

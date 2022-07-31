@@ -1,0 +1,36 @@
+.padd-top{
+  padding-top: 20px;
+}
+.marg-top{
+  margin-top: 10px;
+}
+.cm-gallery-asso-club{
+    padding-top: 120px;
+}
+
+.asso-effect{
+  padding: 20px;
+  box-shadow: 0 0px 15px rgb(0,0,0,0.45);
+  background-color: #e7f5f8;
+}
+.newsletter-title {
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+a>.newsletter-title {text-decoration: none;display: inline-block;color: #000;}
+.newsletter-box-1{
+  padding:10px;
+}
+@media (max-width: 768px){
+  .cm-gallery-asso-club {
+    padding-top:50px;
+  }
+}
+@media (max-width: 992px){
+  .newsletter-title {
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,207 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cm-header {
+    padding: 10px 0px;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    transition: all 0.3s;
+    --border-bottom: 1px solid;
+    background-color: #fbfaf8;
+}
+.cm-header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5px;
+}
+
+.cm-header-logo {
+    height: 91px;
+    display: block;
+    transition: all 0.3s;
+}
+.cm-header-logo > img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.cm-header-nav {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    margin-top: 0px;
+}
+.cm-header-nav > li {
+    padding: 0px 0px;
+    position: relative;
+}
+.cm-header-nav > li > a {
+    display: block;
+    padding: 3px 15px;
+    font-size: 13px;
+    border-radius: 15px;
+    color: #000;
+    font-weight: 600;
+    text-decoration: none;
+    position: reative;
+}
+.cm-header-nav li a:hover{
+    background-color: #dff2f8;
+    --border-radius: 5px;
+    color: #000;
+}
+.cm-header-nav li > ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s;
+    margin: 0;
+    margin-top: 40px;
+    padding: 0;
+    border-radius: 5px;
+    z-index: 1;
+    list-style: none;
+}
+.cm-header-nav li:hover > ul {
+    opacity: 1;
+    pointer-events: all;
+    top:100%;
+    margin-top: 0;
+    z-index: 10;
+    border: 1px solid rgba(0,0,0,0.1);
+
+}
+.cm-header-nav li > ul li a {
+    transition: all 0.3s;
+    padding: 10px 10px;
+    display: block;
+    color: #000;
+    font-weight: 600;
+    min-width: 250px;
+    text-decoration: none !important;
+    border-radius: 5px;
+    font-size: 13px;
+    border-radius:0;
+}
+.cm-header-nav li > ul li + li a {
+    border-top: 1px dashed rgba(0,0,0,0.2);
+    border-radius:0;
+}
+.cm-header.affix{
+    height:70px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,.1);
+}
+.cm-header.affix .cm-header-logo {
+    height: 60px;
+}
+.cm-header.affix .cm-header-nav {
+    margin-top: 0;
+}
+
+.cm-header .cm-hamburger {
+    display: none;
+}
+@media (min-width: 993px) {
+    li.mega-menu ul{
+        width: 500px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    li.mega-menu ul li {
+        width: 50%;
+        padding: 0px 5px;
+    }
+    li.mega-menu ul li a {
+        min-width: 0;
+    }
+    li.mega-menu ul li:nth-child(2) a {
+        border-top: 0;
+    }
+}
+@media (max-width: 1024px) {
+    .cm-header {
+        height: 70px;
+        padding-top: 0px;
+        padding: 0px 0px;
+        background: #0191DC; 
+      /*  background-color: #fff; */
+        box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+        display: flex;
+        align-items: center;
+    }
+    .cm-header-content {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .cm-header .cm-hamburger {
+        display: inline-block;
+    }
+    .cm-header-logo-content {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .cm-header-logo {
+        height: 60px;
+    }
+    .cm-header-nav-content{
+        display: block;
+        position: fixed;
+        top: 0px;
+        right: -240px;
+        width: 240px;
+        height: 100vh;
+        background: #4c4c4c;
+        box-shadow: 0px 0px 0px rgba(0,0,0,0.1);
+        padding: 15px;
+        transition: all 0.4s ease-in-out;
+        pointer-events: none;
+        margin: 0;
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    .open-menu  .cm-header-nav-content {
+        pointer-events: inherit;
+        right: 0px;
+        box-shadow: 0px 0px 30px rgba(0,0,0,0.3);
+        overflow: auto;
+    }
+    .cm-header-nav {
+        margin-top: 0;
+        display: block;
+    }
+    .cm-header-nav li a {
+        color: #fff;
+        font-size: 14px;
+        padding: 10px 10px;
+        letter-spacing: 1px;
+        border-bottom: 1px dashed rgba(255,255,255,0.4);
+        border-radius: 0;
+        min-width:inherit;
+        width: 100%;
+    }
+    .cm-header-nav li > ul {
+        width: 100%;
+        max-height: 0;
+        overflow: hidden;
+        position: relative;
+        margin: 0;
+        border-radius: 0;
+    }
+    .cm-header-nav li:hover > ul {
+        max-height: inherit;
+        font-size:12px;
+    }
+
+}
+@media (max-width: 1024px){
+    .cm-header-nav li > ul li a {min-width: 0;font-size: 12px;}
+}
